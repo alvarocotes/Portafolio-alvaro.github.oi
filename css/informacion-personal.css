@@ -1,0 +1,20 @@
+.informacion-academica{
+    margin: 10px;
+    text-align: center;
+}
+
+.lenguajes{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.card {
+    text-align: center;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+.card img{
+    border-radius: 5px;
+    margin: 5px;
+}
